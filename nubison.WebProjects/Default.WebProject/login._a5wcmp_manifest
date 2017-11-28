@@ -1,0 +1,12 @@
+A5SaveTimeStamp:20171127114805793
+css:<ProjectStyle>
+cssIcon:font-awesome
+subComponent:admin.a5wcmp
+subComponent:tec.a5wcmp
+copyfile:{C:\Users\Desarrollador\Documents\Prototipo Nubison division equipos - color\nubison.WebProjects\Default.WebProject\js\materialize.min.js}
+copyfile:{C:\Users\Desarrollador\Documents\Prototipo Nubison division equipos - color\nubison.WebProjects\Default.WebProject\css\materialize.min.css}
+copyfile:{C:\Users\Desarrollador\Documents\Prototipo Nubison division equipos - color\nubison.WebProjects\Default.WebProject\img\icons8-maintenance-96 (2).png}
+subComponent:admin
+subComponent:tec
+precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_5c535f4a5fc64889a3534a7cfd730828_admin', uxname: 'admin', alias: '{alias}_ADMIN_111617JSGR'}
+precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_fc116335227d4e7f94c94156376767cd_tec', uxname: 'tec', alias: '{alias}_TEC_111621LMVJ'}

@@ -1,0 +1,38 @@
+{
+	"_id": "2904214",
+	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\icons8-maintenance-96 (3).png",
+	"_ssL": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\landscapeSplashScreen.png",
+	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
+	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
+	"_initialUxComponent": "login",
+	"_componentLastUpdated": "27/11/2017 11:48:06 08 am",
+	"_ajaxUrl": "http://nubisonlab.cl:1580/nubisondecolor/",
+	"_additionalFiles": "noPic.jpg\nlogo_nubison_blanco.png\nlogo.png\nimg\\isotipo.ico\nimg\\isotipo.png\nimg\\logoNubison.png\nimg\\noPic.jpg\nimg\\t1.jpg\nimg\\t2.jpg\nimg\\t3.jpg\nimg\\t4.jpg",
+	"_userName": "wtwx6irfQI3iOx7OvgJt1zo2UrrNaJJqmN8Feh/S5gI=",
+	"_pw": "nEUmwR92tRwv6SDFKfexhg==",
+	"_token": "",
+	"timeout": {
+		"phoneGapBuild": "<default>",
+		"phoneGapBuildLogin": "<default>",
+		"getAppIcon": "<default>"
+	},
+	"apperian": {
+		"enableOptions": false,
+		"loginName": "osLnGM4pUcQ=",
+		"password": "c5JMXi9Y+Ko=",
+		"serverURL": "https://easesvc.apperian.com/ease.interface.php"
+	},
+	"backupConfigFile": true,
+	"useImageMagick": true,
+	"indexHTMLMetaTags": "",
+	"genAppZipFile": false,
+	"zipFileLocation": "",
+	"buildTarget": "Phonegap Build",
+	"_androidBuildFlag": true,
+	"_iOSBuildFlag": false,
+	"_windowsBuildFlag": false,
+	"launchAppManager": true,
+	"_sqlitedbdefined": false,
+	"cliProjectFolder": "",
+	"_phonegapBuilderVersion": "1"
+}
